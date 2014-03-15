@@ -1,0 +1,13 @@
+{
+  "name": "beer",
+  "version": "0.0.0",
+  "description": "BreweryDB Client",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "brewerydb"
+  ],
+  "author": "Christopher Gillis",
+  "license": "MIT"
+}
